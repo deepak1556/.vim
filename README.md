@@ -1,4 +1,1 @@
-.vim
-====
-
 neovundle based setup
