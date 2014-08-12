@@ -35,7 +35,6 @@ set nobackup         " no useless backup files
 set noswapfile       " no useless swap files
 set wildignore+=*.so,*.swp,*.zip " ignore patterns for completion
 set nohidden
-set autochdir         " change directory to current file working dir
 let g:rct_completion_use_fri = 1
 "set clipboard=unnamed " clipboard = unnamed reg for easy interaction
 set noerrorbells visualbell t_vb=

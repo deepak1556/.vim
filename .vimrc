@@ -33,6 +33,7 @@ NeoBundle 'tpope/vim-markdown'
 "
 " code completion
 "
+NeoBundle 'SirVer/ultisnips'
 NeoBundle 'honza/vim-snippets'
 
 "
